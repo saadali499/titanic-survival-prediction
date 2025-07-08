@@ -57,5 +57,8 @@ The dataset used is the famous [Titanic dataset from Kaggle](https://www.kaggle.
 ---
 
 ## 📌 Author
-This project was developed as part of a hands-on exercise for ML beginners and Kaggle competition practice.
+Muhammad Saad Ali
+📧 saadali.499@gmail.com
+🔗 GitHub Profile
+🔗 LinkedIn Profile
 
